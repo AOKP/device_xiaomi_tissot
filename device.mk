@@ -135,6 +135,10 @@ PRODUCT_PACKAGES += \
     ethertypes \
     libebtc
 
+# Doze mode
+PRODUCT_PACKAGES += \
+    XiaomiDoze
+
 # Fingerprint
 PRODUCT_PACKAGES += \
     fingerprintd
