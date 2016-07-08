@@ -98,3 +98,4 @@ $(call inherit-product, build/target/product/verity.mk)
 # Glove mode
 PRODUCT_PACKAGES += \
     DeviceSettings
+
