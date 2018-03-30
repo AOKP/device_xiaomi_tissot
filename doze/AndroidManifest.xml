@@ -40,8 +40,6 @@
             <meta-data
                 android:name="com.android.settings.icon"
                 android:resource="@drawable/ic_settings_doze" />
-            <meta-data android:name="com.android.settings.summary"
-                android:resource="@string/screen_gestures_panel_dashboard_summary" />
         </activity>
 
     </application>
