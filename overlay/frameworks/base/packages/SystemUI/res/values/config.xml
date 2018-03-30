@@ -22,11 +22,9 @@
 <resources>
     <!-- Should "LTE"/"4G" be shown instead of "LTE+"/"4G+" when on NETWORK_TYPE_LTE_CA? -->
     <bool name="config_hideLtePlus">false</bool>
-</resources>
 
 <!-- These resources are around just to allow their values to be customized
      for different hardware and product builds. -->
-<resources>
 
     <!-- Vibration duration for MultiWaveView used in SearchPanelView -->
     <integer translatable="false" name="config_search_panel_view_vibration_duration">10</integer>
