@@ -24,7 +24,6 @@
     <!-- Should "LTE"/"4G" be shown instead of "LTE+"/"4G+" when on NETWORK_TYPE_LTE_CA? -->
     <bool name="config_hideLtePlus">false</bool>
 </resources>
-=======
 <?xml version="1.0" encoding="utf-8"?>
 <!--
 /*
@@ -78,4 +77,3 @@
 
 </resources>
 
->>>>>>> 2d6706e... gemini: doze improvements
