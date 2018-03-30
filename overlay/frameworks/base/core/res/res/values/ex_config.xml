@@ -20,7 +20,4 @@
                Depends on Keypress Boost -->
   <bool name="config_enableFPUnlockBoost">true</bool>
 
-  <!-- Whether cpu boost is enabled right after boot -->
-  <bool name="config_enableCpuBoostOnBoot">true</bool>
-
 </resources>
