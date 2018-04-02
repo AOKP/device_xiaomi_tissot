@@ -1,10 +1,24 @@
 [
   {
-    "repository":  "AOKP/device_xiaomi_msm8953-common"
-    "target_path": "device/xiaomi/msm8953-common"
+    "repository":  "device_xiaomi_msm8953-common",
+    "target_path": "device/xiaomi/msm8953-common",
+    "branch": "oreo"
   },
   {
+    "remote":      "github",
     "repository":  "AOKP/kernel_xiaomi_msm8953",
-    "target_path": "kernel/xiaomi/msm8953"
+    "target_path": "kernel/xiaomi/msm8953",
+    "branch":      "oreo"
+  },
+  {
+    "repository":  "platform_vendor_xiaomi_tissot",
+    "target_path": "vendor/xiaomi/"
+    "branch":      "oreo"
+  },
+  {
+    "remote":      "los",
+    "repository":  "android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "branch":      "lineage-15.1"
   }
 ]
